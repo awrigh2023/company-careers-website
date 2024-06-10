@@ -5,23 +5,23 @@ app = Flask(__name__)
 JOBS = [
     {
     'id1': 1,
-    'title': 'Data Analyst',
-    'location': 'Bengaluru, India',
-    'salary' : 'Rs. 1,00,000'
+    'title': 'Construction Manager',
+    'location': 'Frederick, Colorado',
+    'salary' : '$80,000'
     },
     {'id': 2,
-     'title': 'Data Scientist',
-     'location': 'Delhi, India',
-     'salary' : 'Rs. 15,000,000'
+     'title': 'Office Administrator',
+     'location': 'Frederick Colorado',
+     'salary' : '$45,000'
     },
     {'id': 3,
-     'title': 'Frontend Engineer',
+     'title': 'Engineer',
      'location': 'Remote'
     },
     {'id': 4,
-     'title': 'Backend Engineer',
-     'location': 'San Francisco',
-     'salary' : '$150,000'
+     'title': 'Accountant',
+     'location': 'Frederick, Colorado',
+     'salary' : '$70,000'
     }
 ]
 
